@@ -97,4 +97,7 @@ Github Advance
 
 
 git status
-git add 
+git add <filename>
+git commit -m ""
+git push
+
